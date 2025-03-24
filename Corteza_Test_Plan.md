@@ -56,4 +56,5 @@ The following areas will be covered:
 | Final Regression  | 1 week           |
 
 ## 10. Approval & Sign-Off
-The test plan will be reviewed and approved by the QA Lead, Project Manager, and key stakeholders before test execution begins.
+QA Lead:                                         Project Manager: 
+Stakeholders:
